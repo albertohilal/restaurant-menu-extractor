@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+.env.local
+
+# Archivos de entorno o secretos
+*.env
+.env.*
+
+# Archivos generados
+output/
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de Jupyter o notebooks (si se usan)
+.ipynb_checkpoints/
+
+# Archivos de sistema Linux/Windows
+*.swp
+*.swo
